@@ -4,6 +4,7 @@
 
 A terminal password generator for Windows, macOS and Linux, with an encrypted history
 
+[Download](https://github.com/sk1fony/QuickPass/releases/tag/v1.0)
 
 ## Run
 
