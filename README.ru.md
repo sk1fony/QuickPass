@@ -4,6 +4,8 @@
 
 Генератор паролей на Windows, macOS и Linux 
 
+[Установить](https://github.com/sk1fony/QuickPass/releases/tag/v1.0)
+
 ## Запуск
 
 Установи [Python 3.10+](https://www.python.org/downloads/), скачай проект и распакуй
