@@ -2,9 +2,8 @@
 
 [Русский](README.ru.md)
 
-A terminal password generator for Windows, macOS and Linux, with an encrypted history and an English or Russian interface
+A terminal password generator for Windows, macOS and Linux, with an encrypted history
 
-Passwords are 15 characters by default. You can change the length, leave out symbols or exclude similar characters like `I`, `l` and `1`. Add a label to find a saved password later
 
 ## Run
 
@@ -15,10 +14,6 @@ Install [Python 3.10+](https://www.python.org/downloads/), download the project 
 | Windows | Open `Start_Windows.bat` |
 | macOS | Run `bash Start_macOS.command` |
 | Linux | Run `python3 bootstrap.py` |
-
-On the first launch, choose a language and create a master password. Enter selects English. The first launch needs internet to install the encryption library; after that QuickPass works offline
-
-Press Enter to create a password, `h` to open the history or `s` to change generation settings. Each password is saved before it appears on screen
 
 ## Commands
 
